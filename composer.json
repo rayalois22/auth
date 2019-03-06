@@ -1,7 +1,7 @@
 {
     "name": "rayalois22/auth",
     "description":"PHP Authentication Module",
-    "license": "MIT"
+    "license": "MIT",
     "minimum-stability": "stable",
     "authors": [
         {
